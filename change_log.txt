@@ -1,0 +1,5 @@
+**  v. 0.1 ** 
+
+– no kerning
+– some characters missing from  basic Latin table
+– not quite sure about  a, g, s
